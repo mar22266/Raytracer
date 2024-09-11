@@ -1,3 +1,0 @@
-/home/AMT/Raytracer/build/CMakeFiles/RT.dir
-/home/AMT/Raytracer/build/CMakeFiles/edit_cache.dir
-/home/AMT/Raytracer/build/CMakeFiles/rebuild_cache.dir

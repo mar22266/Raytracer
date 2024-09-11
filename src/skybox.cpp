@@ -1,4 +1,4 @@
-#include "skybox.h"
+#include "./headers/skybox.h"
 #include <SDL_image.h>
 
 Skybox::Skybox(const std::string &textureFile)

@@ -12,12 +12,12 @@
 #include <algorithm>
 #include <execution>
 
-#include "skybox.h"
-#include "light.h"
-#include "color.h"
-#include "object.h"
-#include "cube.h"
-#include "camera.h"
+#include "./headers/skybox.h"
+#include "./headers/light.h"
+#include "./headers/color.h"
+#include "./headers/object.h"
+#include "./headers/cube.h"
+#include "./headers/camera.h"
 
 #define SCREEN_WIDTH 800
 #define SCREEN_HEIGHT 600

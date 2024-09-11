@@ -1,4 +1,4 @@
-#include "cube.h"
+#include "./headers/cube.h"
 
 Cube::Cube(const glm::vec3 &minCorner, const glm::vec3 &dimensions, const Material &mat)
     : Object(mat), minCorner(minCorner), dimensions(dimensions) {}

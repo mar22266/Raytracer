@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/RT.dir/src/camera.cpp.o CMakeFiles/RT.dir/src/color.cpp.o CMakeFiles/RT.dir/src/cube.cpp.o CMakeFiles/RT.dir/src/main.cpp.o CMakeFiles/RT.dir/src/skybox.cpp.o -o RT  /usr/lib/libtbb.so.12.13 /usr/lib/libSDL2main.a /usr/lib/libSDL2-2.0.so.0.3000.7 -lSDL2_image

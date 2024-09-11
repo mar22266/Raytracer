@@ -1,4 +1,4 @@
-#include "color.h"
+#include "./headers/color.h"
 
 // Definition of friend functions outside of the class
 

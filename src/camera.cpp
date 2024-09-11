@@ -1,4 +1,4 @@
-#include "camera.h"
+#include "./headers/camera.h"
 
 // Constructor for the Camera class.
 // Initializes the position, target and rotationSpeed based on the input parameters.

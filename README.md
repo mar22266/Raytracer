@@ -12,6 +12,7 @@ This video demonstrates the main features and interactive controls of the Ray Tr
 
 - **Interactive Camera Control**: Move and rotate the camera using keyboard inputs to explore the scene.
 - **Skybox**: An immersive background environment that surrounds the entire scene.
+- **Performance**:The application runs at a frame rate between **10 and 25 FPS**, depending on the scene complexity and system performance. Optimizations may vary based on hardware settings.
 - **Multiple Materials**: Various materials with different textures and properties like albedo, specularity, reflectivity, and transparency.
 - **Dynamic Lighting**: Supports multiple light sources with different colors and intensities, including day-night cycles.
 - **Normal Mapping**: Enhances surface details without increasing geometric complexity.

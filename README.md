@@ -2,6 +2,12 @@
 
 This project is a 3D ray tracing application that renders a dynamic diorama with various effects, including a skybox, different material properties, multiple light sources, and interactive camera controls. The user can move the camera using the keyboard to explore the scene, which is designed to showcase advanced ray tracing techniques.
 
+## Demo
+
+![Demo](demo/video.mp4)
+
+This video demonstrates the main features and interactive controls of the Ray Tracing Diorama. Watch how the camera moves, the dynamic lighting changes, and the various material effects bring the scene to life.
+
 ## Features
 
 - **Interactive Camera Control**: Move and rotate the camera using keyboard inputs to explore the scene.

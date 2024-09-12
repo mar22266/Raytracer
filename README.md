@@ -6,7 +6,7 @@ This project is a 3D ray tracing application that renders a dynamic diorama with
 
 ![Demo](demo/video.gif)
 
-This video demonstrates the main features and interactive controls of the Ray Tracing Diorama. Watch how the camera moves, the dynamic lighting changes, and the various material effects bring the scene to life.
+This video demonstrates the main features and interactive controls of the Ray Tracing Diorama. Watch how the camera moves, the dynamic lighting changes, and the various material effects bring the scene to life. (THE DEMO RESOLUTION MAY BE LOW DUE TO VIDEO COMPRESSION REQUIRED BY GITHUB)
 
 ## Features
 
